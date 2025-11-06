@@ -12,13 +12,13 @@ Instructor: Md. Asif Hossain
 ## 🚀 Key Images
 
 **System Block Diagram**  
-![System Block Diagram](images/1.png)
+<img src="images/1.png" alt="System Block Diagram" width="500"/>
 
 **Wiring Diagram of the Smart Radar System**  
-![Wiring Diagram](images/2.jpg)
+<img src="images/2.jpg" alt="Wiring Diagram" width="500"/>
 
 **Screenshot of Processing GUI**  
-![Processing GUI Screenshot](images/3.jpg)
+<img src="images/3.jpg" alt="Processing GUI Screenshot" width="500"/>
 
 ---
 
