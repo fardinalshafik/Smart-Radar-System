@@ -34,7 +34,7 @@ Instructor: Md. Asif Hossain
   - `3.jpg` — Screenshot of Processing GUI
 
 - **/report**
-  - [`CSC 330 Project Report (3).pdf`](report/CSC%20330%20Project%20Report%20(3).pdf) — Complete project documentation
+  - [`CSC 330 Project Report (3).pdf`](report/CSC%20330%20Project%20Report%20.pdf) — Complete project documentation
 
 ---
 
