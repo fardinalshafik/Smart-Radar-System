@@ -34,7 +34,7 @@ Instructor: Md. Asif Hossain
   - `3.jpg` — Screenshot of Processing GUI
 
 - **/report**
-  - [`CSC 330 Project Report (3).pdf`](report/CSC%20330%20Project%20Report%20.pdf) — Complete project documentation
+  - [`CSC 330 Project Report.pdf`](report/CSC%20330%20Project%20Report%20(3).pdf) — Complete project documentation
 
 ---
 
@@ -52,7 +52,7 @@ Instructor: Md. Asif Hossain
    - Run the sketch to see the radar sweep in action.
 
 4. **Details and Analysis:**  
-   - See the full [`CSC 330 Project Report (3).pdf`](report/CSC%20330%20Project%20Report%20(3).pdf) for methodology, design, and results.
+   - See the full [`CSC 330 Project Report.pdf`](report/CSC%20330%20Project%20Report%20(3).pdf) for methodology, design, and results.
 
 ---
 
